@@ -18,7 +18,7 @@
 
 ### 📫 ช่องทางการติดต่อ (Contact)
 คลิกไอคอนมุมขวาของกล่องด้านล่างเพื่อคัดลอกอีเมลได้เลยครับ:
-<pre><code>your.email@ku.th</code></pre>
+<pre><code>panupong.kongt@ku.th</code></pre>
 
 ---
 
