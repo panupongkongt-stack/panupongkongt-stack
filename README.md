@@ -40,21 +40,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-### 📂 โปรเจกต์และผลงานเรียน (Coursework & Projects)
-
-| ชื่อโปรเจกต์ | รายละเอียดสั้นๆ | เทคโนโลยีที่ใช้ |
-| :--- | :--- | :--- |
-| **[ชื่อโปรเจกต์ที่ 1](https://github.com/YOUR_USERNAME/project-1)** | โปรเจกต์รายวิชา... | `C`, `Python` |
-| **[ชื่อโปรเจกต์ที่ 2](https://github.com/YOUR_USERNAME/project-2)** | เว็บไซต์ / ระบบฐานข้อมูลเบื้องต้น... | `HTML`, `CSS`, `Node.js`, `SQL` |
-
----
-
-### 📊 สถิติ GitHub (GitHub Stats)
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
